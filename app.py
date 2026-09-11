@@ -53,7 +53,7 @@ RISK_COLORS = {"LOW": "#16A34A", "MEDIUM": "#D97706", "HIGH": "#EA580C", "CRITIC
 
 st.markdown(f"""
 <style>
-    .block-container {{ padding-top: 1.5rem; max-width: 1400px; }}
+    .block-container {{ padding-top: 3.5rem; max-width: 1400px; }}
     .dataq-header {{
         display: flex; align-items: baseline; gap: 0.6rem;
         border-bottom: 3px solid {PRIMARY}; padding-bottom: 0.6rem; margin-bottom: 1.2rem;
